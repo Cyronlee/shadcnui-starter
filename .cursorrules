@@ -1,0 +1,5 @@
+- Use pnpm
+- Use Next.js pages router
+- Use TypeScript
+- Use TailwindCSS
+- Use shadcn/ui
